@@ -1,0 +1,8 @@
+tensorflow==1.2.0
+pandas
+nltk
+tqdm
+scikit-learn
+# For GloVe pre-trained word embeddings, you'll need to download them separately as they are not a pip-installable package.
+# wget http://nlp.stanford.edu/data/glove.6B.zip
+# unzip glove.6B.zip
